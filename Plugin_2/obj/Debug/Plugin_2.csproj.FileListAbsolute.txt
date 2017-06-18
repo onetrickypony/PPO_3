@@ -1,0 +1,6 @@
+D:\6_sem\PPO\PPO_1\Plugin_2\bin\Debug\Plugin_2.dll
+D:\6_sem\PPO\PPO_1\Plugin_2\bin\Debug\Plugin_2.pdb
+D:\6_sem\PPO\PPO_1\Plugin_2\bin\Debug\PPO_1.exe
+D:\6_sem\PPO\PPO_1\Plugin_2\bin\Debug\PPO_1.pdb
+D:\6_sem\PPO\PPO_1\Plugin_2\obj\Debug\Plugin_2.dll
+D:\6_sem\PPO\PPO_1\Plugin_2\obj\Debug\Plugin_2.pdb

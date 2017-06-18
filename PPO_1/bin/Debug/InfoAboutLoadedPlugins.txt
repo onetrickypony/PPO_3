@@ -1,0 +1,2 @@
+плагин PrintColorPlugin загружен
+плагин OutputStudentToFilePlugin загружен

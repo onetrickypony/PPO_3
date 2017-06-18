@@ -1,0 +1,22 @@
+﻿<Window x:Class="PPO_1.WindowAddStudent"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PPO_1"
+        mc:Ignorable="d"
+        Title="WindowAddStudent" Height="257.01" Width="294.393">
+    <Grid>
+        <TextBox x:Name="textBox_surname" HorizontalAlignment="Left" Height="23" Margin="89,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="OK" HorizontalAlignment="Left" Margin="126,164,0,0" VerticalAlignment="Top" Width="54" Height="37" Click="button_Click"/>
+        <Label x:Name="label" Content="Фамилия" HorizontalAlignment="Left" Margin="24,15,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.533,0.217"/>
+        <Label x:Name="label1" Content="Имя" HorizontalAlignment="Left" Margin="51,42,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Отчество" HorizontalAlignment="Left" Margin="23,68,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_name" HorizontalAlignment="Left" Height="23" Margin="89,43,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_fathername" HorizontalAlignment="Left" Height="23" Margin="89,71,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label3" Content="Рейтинг" HorizontalAlignment="Left" Margin="31,95,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Аватар" HorizontalAlignment="Left" Margin="36,123,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_rating" HorizontalAlignment="Left" Height="23" Margin="89,99,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox_avatar" HorizontalAlignment="Left" Height="23" Margin="89,127,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

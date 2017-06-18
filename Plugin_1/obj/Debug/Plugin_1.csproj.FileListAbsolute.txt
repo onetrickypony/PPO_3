@@ -1,0 +1,7 @@
+D:\6_sem\PPO\PPO_1\Plugin_1\bin\Debug\Plugin_1.dll
+D:\6_sem\PPO\PPO_1\Plugin_1\bin\Debug\Plugin_1.pdb
+D:\6_sem\PPO\PPO_1\Plugin_1\bin\Debug\PPO_1.exe
+D:\6_sem\PPO\PPO_1\Plugin_1\bin\Debug\PPO_1.pdb
+D:\6_sem\PPO\PPO_1\Plugin_1\obj\Debug\Plugin_1.csprojResolveAssemblyReference.cache
+D:\6_sem\PPO\PPO_1\Plugin_1\obj\Debug\Plugin_1.dll
+D:\6_sem\PPO\PPO_1\Plugin_1\obj\Debug\Plugin_1.pdb
